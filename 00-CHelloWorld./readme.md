@@ -1,1 +1,1 @@
-Compilador seleccionado: gcc
+Compilador seleccionado: gcc para C18
